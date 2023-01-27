@@ -1,0 +1,40 @@
+body {
+  font-family: Tahoma, sans-serif;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+}
+h1{color: #66BFBF}
+h2{
+  color: #66BFBF;
+  font-family:'Times New Roman', serif;
+}
+h3{  color: #66BFBF;
+  font-family:'Times New Roman', serif;}
+img{
+  height: 200px
+}
+label {
+    display: block;
+    font: 0.9rem Tahoma, sans-serif;
+}
+
+input[type='submit'],
+label {
+    margin-top: 1rem;
+}
+
+header {
+  font-family:'Times New Roman', serif;
+  background-color: #EAF6F6;
+  padding: 1em;
+}
+
+body {
+  padding: 3em;
+}
+
+footer {
+  background-color: #EAF6F6;
+  padding: 1em;
+}
